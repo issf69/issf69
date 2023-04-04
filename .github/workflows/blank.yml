@@ -37,6 +37,15 @@ jobs:
           branch: master
           force: true
 
+ name: Push changes
+  uses: ad-m/github-push-action@master
+  with:
+    github_token: ${{ secrets.PAT }}
+    repository: https://github.com/issf69/repository.git
+    branch: refs/pull/42/merge
+    directory: .
+
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
