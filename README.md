@@ -93,5 +93,4 @@
   adaptado por <a href="https://github.com/issf69"> Irene Silva França</a>
 </div>
     
-    
-      ![Snake animation](https://github.com/issf69/issf69/blob/output/github-contribution-grid-snake.svg)
+   
