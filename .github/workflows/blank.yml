@@ -35,7 +35,7 @@ jobs:
  name: Push changes
   uses: ad-m/github-push-action@master
   with:
-    github_token: ${{ secrets.PAT }}
+    github_token: ${{ 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 }}
     repository: https://github.com/issf69/repository.git
     branch: refs/pull/42/merge
     directory: .
