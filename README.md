@@ -51,9 +51,7 @@
   <img src="https://user-images.githubusercontent.com/105497075/221876382-6566380b-c10c-4886-b376-41b0acf7cbf1.gif" src=".github/preview.jpg" width="25%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg" src=".github/preview.jpg" width="25%">
-</p>
+
 
 </div>
       <div align="center">
